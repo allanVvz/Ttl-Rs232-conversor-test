@@ -1,0 +1,24 @@
+==================================================
+Arquivo de Log: teste-921600-27-08-2024.txt
+Baudrate: 921600
+Data de Início: 2024-08-27 14:56:04
+Tamanho do pacote: 2048
+==================================================
+
+
+Baudrate alterado automaticamente para 921600.
+
+
+pacote: 0 Enviado de /dev/ttyUSB0: 2024-08-27 14:56:05 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 1 Enviado de /dev/ttyUSB1:  - Erro
+ACK inválido ou erro na porta /dev/ttyUSB0. Tentando novamente...
+pacote: 2 Enviado de /dev/ttyUSB1: || Erro em /dev/ttyUSB0: Checksum inválido. Calculado 64691, recebido 64765.
+ACK inválido ou erro na porta /dev/ttyUSB0. Tentando novamente...
+pacote: 3 Enviado de /dev/ttyUSB1:  - Erro
+ACK inválido ou erro na porta /dev/ttyUSB0. Tentando novamente...
+pacote: 4 Enviado de /dev/ttyUSB1: || Erro em /dev/ttyUSB0: Checksum inválido. Calculado 64190, recebido 64254.
+ACK inválido ou erro na porta /dev/ttyUSB0. Tentando novamente...
+pacote: 5 Enviado de /dev/ttyUSB1: || Erro em /dev/ttyUSB0: Checksum inválido. Calculado 65656, recebido 65600.
+Limite de erros consecutivos atingido (5). Encerrando o programa.
+Total de erros identificados na porta /dev/ttyUSB0: 5
+Porta /dev/ttyUSB0 fechada.

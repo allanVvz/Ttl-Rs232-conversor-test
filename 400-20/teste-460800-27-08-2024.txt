@@ -1,0 +1,37 @@
+==================================================
+Arquivo de Log: teste-460800-27-08-2024.txt
+Baudrate: 460800
+Data de Início: 2024-08-27 14:44:44
+Tamanho do pacote: 400
+==================================================
+
+
+Baudrate alterado automaticamente para 460800.
+
+
+pacote: 0 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:44 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 1 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 2 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 3 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 4 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 5 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 6 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 7 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 8 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:45 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 9 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 10 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 11 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 12 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 13 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 14 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 15 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 16 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:46 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 17 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:47 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 18 Enviado de /dev/ttyUSB0: 2024-08-27 14:44:47 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 19 Enviado de /dev/ttyUSB1: 2024-08-27 14:44:47 || Recebido em /dev/ttyUSB0 - sucesso.
+==================================================
+Data de Fim: 2024-08-27 14:44:47
+Tempo Total Decorrido: 3.21 segundos
+Total de Pacotes Enviados: 20
+Total de Pacotes Recebidos: 20
+==================================================

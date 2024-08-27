@@ -1,0 +1,145 @@
+==================================================
+Arquivo de Log: teste-230400-27-08-2024.txt
+Baudrate: 230400
+Data de Início: 2024-08-27 15:24:14
+Tamanho do pacote: 4096
+==================================================
+
+
+Baudrate alterado automaticamente para 230400.
+
+
+pacote: 0 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:15 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 1 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:15 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 2 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:16 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 3 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:16 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 4 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:16 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 5 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:17 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 6 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:17 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 7 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:17 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 8 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:18 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 9 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:18 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 10 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:18 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 11 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:18 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 12 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:19 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 13 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:19 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 14 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:19 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 15 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:20 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 16 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:20 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 17 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:20 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 18 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:21 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 19 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:21 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 20 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:21 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 21 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:22 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 22 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:22 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 23 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:22 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 24 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:22 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 25 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:23 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 26 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:23 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 27 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:23 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 28 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:24 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 29 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:24 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 30 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:24 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 31 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:25 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 32 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:25 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 33 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:25 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 34 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:25 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 35 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:26 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 36 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:26 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 37 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:26 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 38 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:27 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 39 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:27 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 40 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:27 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 41 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:28 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 42 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:28 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 43 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:28 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 44 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:29 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 45 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:29 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 46 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:29 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 47 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:29 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 48 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:30 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 49 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:30 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 50 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:30 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 51 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:31 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 52 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:31 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 53 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:31 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 54 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:32 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 55 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:32 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 56 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:32 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 57 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:33 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 58 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:33 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 59 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:33 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 60 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:33 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 61 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:34 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 62 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:34 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 63 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:34 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 64 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:35 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 65 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:35 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 66 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:35 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 67 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:36 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 68 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:36 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 69 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:36 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 70 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:36 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 71 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:37 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 72 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:37 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 73 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:37 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 74 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:38 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 75 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:38 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 76 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:38 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 77 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:39 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 78 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:39 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 79 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:39 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 80 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:39 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 81 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:40 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 82 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:40 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 83 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:40 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 84 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:41 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 85 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:41 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 86 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:41 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 87 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:42 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 88 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:42 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 89 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:42 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 90 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:43 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 91 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:43 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 92 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:43 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 93 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:44 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 94 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:44 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 95 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:44 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 96 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:44 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 97 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:45 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 98 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:45 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 99 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:45 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 100 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:46 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 101 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:46 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 102 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:46 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 103 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:47 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 104 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:47 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 105 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:47 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 106 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:47 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 107 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:48 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 108 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:48 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 109 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:48 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 110 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:49 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 111 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:49 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 112 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:49 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 113 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:50 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 114 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:50 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 115 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:50 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 116 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:50 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 117 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:51 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 118 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:51 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 119 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:51 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 120 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:52 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 121 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:52 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 122 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:52 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 123 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:53 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 124 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:53 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 125 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:53 || Recebido em /dev/ttyUSB0 - sucesso.
+pacote: 126 Enviado de /dev/ttyUSB0: 2024-08-27 15:24:54 || Recebido em /dev/ttyUSB1 - sucesso.
+pacote: 127 Enviado de /dev/ttyUSB1: 2024-08-27 15:24:54 || Recebido em /dev/ttyUSB0 - sucesso.
+==================================================
+Data de Fim: 2024-08-27 15:24:54
+Tempo Total Decorrido: 39.76 segundos
+Total de Pacotes Enviados: 128
+Total de Pacotes Recebidos: 128
+==================================================
